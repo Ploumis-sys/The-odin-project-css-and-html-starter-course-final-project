@@ -1,0 +1,35 @@
+* {
+    font-family: Roboto;
+     
+}
+
+.Header_Logo {
+display: inline; 
+}
+.Hero_image {
+
+height: 10cm;
+width: auto;
+
+ 
+}
+
+.Hero_main_text {
+   margin-top: 18
+  
+}
+
+.Hero_sub_text2{
+    margin-top: 0px;
+   
+}
+
+.Hero_sub_text{
+    margin-bottom: 0px;
+    
+}
+
+.Hero_container {
+    display: flex;
+    justify-content: space-evenly
+}
